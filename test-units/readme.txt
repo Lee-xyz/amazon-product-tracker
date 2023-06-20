@@ -1,0 +1,1 @@
+This empty folder is used for storing a test CSV and JSON file when running test_units.py as part of its test suite.
